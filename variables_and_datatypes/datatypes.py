@@ -68,7 +68,6 @@ student_names = ("Harsh","Omkar","Deepshikha","Nikunj","Deepshikha")
 print(student_names)
 print(student_names[1])
 
-
 # set datatype
 # set - {} , mutable , non-indexed
 set_example = {1,2,5,6,5,5,5,1,7,8,9,9,6}
